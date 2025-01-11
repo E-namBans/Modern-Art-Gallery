@@ -1,10 +1,9 @@
 # The Art Loft
-An online platform designed to showcase art. The project aims to provide a user-friendly, visually appealing gallery experience, featuring easy navigation
-
+- A modern art gallary website or platform designed to showcase art. The project aims to provide a user-friendly, visually appealing gallery experience, featuring easy navigation
 
 # Technologies Used
-HTML5: Structuring the website's content.
-CSS3: Styling and layout for a visually appealing interface.
+- HTML5: Structuring the website's content.
+- CSS3: Styling and layout for a visually appealing interface.
 
 # Future Plans
 - Filtering and searching functionality for easier navigation.
