@@ -4,6 +4,7 @@
 # Technologies Used
 - HTML5: Structuring the website's content.
 - CSS3: Styling and layout for a visually appealing interface.
+- Added google map API for location
 
 # Future Plans
 - Filtering and searching functionality for easier navigation.
